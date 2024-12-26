@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "Circular Std";
-	src: url("/Black.woff2") format("woff2"),
-		url("/Black.woff") format("woff"),
-		url("/Black.ttf") format("truetype"),
-		url("/Black.eot") format("embedded-opentype"),
-		url("/Black.svg#Black") format("svg");
+	src: url("Black.woff2") format("woff2"),
+		url("Black.woff") format("woff"),
+		url("Black.ttf") format("truetype"),
+		url("Black.eot") format("embedded-opentype"),
+		url("Black.svg#Black") format("svg");
 	font-weight: black;
 	font-style: normal;
 	font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/BlackItalic.woff2") format("woff2"),
-		url("/BlackItalic.woff") format("woff"),
-		url("/BlackItalic.ttf") format("truetype"),
-		url("/BlackItalic.eot") format("embedded-opentype"),
-		url("/BlackItalic.svg#BlackItalic")
+	src: url("BlackItalic.woff2") format("woff2"),
+		url("BlackItalic.woff") format("woff"),
+		url("BlackItalic.ttf") format("truetype"),
+		url("BlackItalic.eot") format("embedded-opentype"),
+		url("BlackItalic.svg#BlackItalic")
 		format("svg");
 	font-weight: black;
 	font-style: italic;
@@ -25,11 +25,11 @@
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/Bold.woff2") format("woff2"),
-		url("/Bold.woff") format("woff"),
-		url("/Bold.ttf") format("truetype"),
-		url("/Bold.eot") format("embedded-opentype"),
-		url("/Bold.svg#Bold") format("svg");
+	src: url("Bold.woff2") format("woff2"),
+		url("Bold.woff") format("woff"),
+		url("Bold.ttf") format("truetype"),
+		url("Bold.eot") format("embedded-opentype"),
+		url("Bold.svg#Bold") format("svg");
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;
@@ -37,11 +37,11 @@
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/BoldItalic.woff2") format("woff2"),
-		url("/BoldItalic.woff") format("woff"),
-		url("/BoldItalic.ttf") format("truetype"),
-		url("/BoldItalic.eot") format("embedded-opentype"),
-		url("/BoldItalic.svg#BoldItalic") format("svg");
+	src: url("BoldItalic.woff2") format("woff2"),
+		url("BoldItalic.woff") format("woff"),
+		url("BoldItalic.ttf") format("truetype"),
+		url("BoldItalic.eot") format("embedded-opentype"),
+		url("BoldItalic.svg#BoldItalic") format("svg");
 	font-weight: bold;
 	font-style: italic;
 	font-display: swap;
@@ -49,11 +49,11 @@
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/Book.woff2") format("woff2"),
-		url("/Book.woff") format("woff"),
-		url("/Book.ttf") format("truetype"),
-		url("/Book.eot") format("embedded-opentype"),
-		url("/Book.svg#Book") format("svg");
+	src: url("Book.woff2") format("woff2"),
+		url("Book.woff") format("woff"),
+		url("Book.ttf") format("truetype"),
+		url("Book.eot") format("embedded-opentype"),
+		url("Book.svg#Book") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -61,11 +61,11 @@
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/BookItalic.woff2") format("woff2"),
-		url("/BookItalic.woff") format("woff"),
-		url("/BookItalic.ttf") format("truetype"),
-		url("/BookItalic.eot") format("embedded-opentype"),
-		url("/BookItalic.svg#BookItalic") format("svg");
+	src: url("BookItalic.woff2") format("woff2"),
+		url("BookItalic.woff") format("woff"),
+		url("BookItalic.ttf") format("truetype"),
+		url("BookItalic.eot") format("embedded-opentype"),
+		url("BookItalic.svg#BookItalic") format("svg");
 	font-weight: normal;
 	font-style: italic;
 	font-display: swap;
@@ -73,27 +73,25 @@
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/Medium.woff2") format("woff2"),
-		url("/Medium.woff") format("woff"),
-		url("/Medium.ttf") format("truetype"),
-		url("/Medium.eot") format("embedded-opentype"),
-		url("/Medium.svg#Medium") format("svg");
+	src: url("Medium.woff2") format("woff2"),
+		url("Medium.woff") format("woff"),
+		url("Medium.ttf") format("truetype"),
+		url("Medium.eot") format("embedded-opentype"),
+		url("Medium.svg#Medium") format("svg");
 	font-weight: 500;
-	/* Medium weight */
 	font-style: normal;
 	font-display: swap;
 }
 
 @font-face {
 	font-family: "Circular Std";
-	src: url("/MediumItalic.woff2") format("woff2"),
-		url("/MediumItalic.woff") format("woff"),
-		url("/MediumItalic.ttf") format("truetype"),
-		url("/MediumItalic.eot") format("embedded-opentype"),
-		url("/MediumItalic.svg#MediumItalic")
+	src: url("MediumItalic.woff2") format("woff2"),
+		url("MediumItalic.woff") format("woff"),
+		url("MediumItalic.ttf") format("truetype"),
+		url("MediumItalic.eot") format("embedded-opentype"),
+		url("MediumItalic.svg#MediumItalic")
 		format("svg");
 	font-weight: 500;
-	/* Medium weight */
 	font-style: italic;
 	font-display: swap;
 }
